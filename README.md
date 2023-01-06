@@ -45,7 +45,6 @@ I then showed my device around to other people to gather reviews so that I could
 7. Solder a piezo speaker to the arduino
 8. Use a 12V battery case and solder the power wire to VIN and the ground wire to GND.
 9. 3D print an outer casing for the device so that the wires are not exposed.
-  - I did not have time to finish this because my print failed.
 
 ## Reflection:
 
