@@ -1,6 +1,6 @@
 # Simon
 
-# The Device:
+## The Device:
 
 The end goal for this project was to create a device that mimics the functionality and entertainment of the well known simon by Hasbro gaming.
 
@@ -8,11 +8,11 @@ This toy is directed towards audiences of all ages, including those whose hearin
 
 The device simulates a memorization game which the user can play to test their memorization skills. A sequence of colors are lit up on the device, and the user must press the buttons corresponding to those colors in the exact order that they were lit up in order to keep playing. In order to make the game more challenging after each correct answer, the length of the sequence will increment by one and the speed at which the sequence is displayed will increase until it reaches its maximum speed.
 
-# Designing:
+## Designing:
 
 With limited supplies and a tight deadline, I had to resort to simple 3D printing that doesn’t take very long to design. I settled for a simple square, rather than a circle, with filet corners so that the device is easy to hold and not dangerous to give to a child. I spent the most time researching and measuring the dimensions of the components I will be using so that I can design openings for the conductive parts of the components to stick through. After 3 prototypes and failed prints, I finally got a good finalized top plate. The openings allowed for the easy installation of the four LEDs and four buttons required for the functionality of the game:
 
-# Assembly:
+## Assembly:
 
 After completing my previous project (an alarm clock powered by arduino) I quickly learned that the process of wiring everything together would have been so much easier if I followed some sort of organization to manage the electricity.
 
@@ -31,7 +31,7 @@ I then showed my device around to other people to gather reviews so that I could
 - Start Game = High Octave A
 - End Game = Low Octave A
 
-# How to produce this product:
+## How to produce this product:
 
 1. 3D print the top plate design with the correct dimensions.
 2. Install the LEDs and Buttons onto the top plate.
@@ -47,6 +47,6 @@ I then showed my device around to other people to gather reviews so that I could
 9. 3D print an outer casing for the device so that the wires are not exposed.
 - I did not have time to finish this because my print failed.
 
-# Reflection:
+## Reflection:
 
-    I think this project went very well. It made me happy that all the reviews from friends, teachers, and family were positive. The mission was to create a device that everyone can use to train their memorization skills that is fun to use, and I believe that mission is accomplished. If I had a bit more time, I would have made a better design for the outer casing of the project, which includes a door with a hinge so that I can easily replace the battery or fix anything that needs to be fixed inside the device. This project overall was very fun, and I hope that whoever plays my simon game thinks that it is fun as well.
+I think this project went very well. It made me happy that all the reviews from friends, teachers, and family were positive. The mission was to create a device that everyone can use to train their memorization skills that is fun to use, and I believe that mission is accomplished. If I had a bit more time, I would have made a better design for the outer casing of the project, which includes a door with a hinge so that I can easily replace the battery or fix anything that needs to be fixed inside the device. This project overall was very fun, and I hope that whoever plays my simon game thinks that it is fun as well.
