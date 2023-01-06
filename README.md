@@ -35,17 +35,17 @@ I then showed my device around to other people to gather reviews so that I could
 
 1. 3D print the top plate design with the correct dimensions.
 2. Install the LEDs and Buttons onto the top plate.
-- I used hot glue on the parts of the buttons and LEDs that I will not be soldering to on the back of the plate to secure them.
+  I used hot glue on the parts of the buttons and LEDs that I will not be soldering to on the back of the plate to secure them.
 3. Solder (or attach depending on your board) to the arduino and all wires required for proper management to the breadboard.
 4. Solder all power and ground components of the buttons together to an analog pin.
-- Note that these will require about 1k ohm resistors.
+  Note that these will require about 1k ohm resistors.
 5. Solder all data components of the buttons to their respective pins on the breadboard.
 6. Solder all power and ground components of the LEDs to the breadboard
-- Note that these will require about 1k resistors.
+  Note that these will require about 1k resistors.
 7. Solder a piezo speaker to the arduino
 8. Use a 12V battery case and solder the power wire to VIN and the ground wire to GND.
 9. 3D print an outer casing for the device so that the wires are not exposed.
-- I did not have time to finish this because my print failed.
+  I did not have time to finish this because my print failed.
 
 ## Reflection:
 
