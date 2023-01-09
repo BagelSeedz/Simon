@@ -16,12 +16,12 @@ const int redLED = 10;
 
 // LOGIC CONSTANTS
 const int buttonDebounceMaxLoops = 30;
-const int redTone = 262;
-const int blueTone = 294;
-const int yellowTone = 330;
-const int greenTone = 349;
-const int startGameTone = 392;
-const int endGameTone = 131;
+const int redTone = 262; // C4
+const int blueTone = 294; // D4
+const int yellowTone = 330; // E4
+const int greenTone = 370; // FS4
+const int startGameTone = 392; // G4
+const int endGameTone = 131; // C3
 
 // GAME CONSTANTS
 const double delayDivision = 1.1;
