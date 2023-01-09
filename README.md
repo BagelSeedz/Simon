@@ -24,12 +24,12 @@ Because the functionality of the game was finished, I decided to add 2 more comp
 
 I then showed my device around to other people to gather reviews so that I could see if anything needed to be changed. All the reviews were very positive, but I did receive a suggestion to change the frequencies to a G Major scale for a more pleasant sounding device.
 
-- Red = D
-- Blue = E
-- Yellow = F#
-- Green = G
-- Start Game = High Octave A
-- End Game = Low Octave A
+- Red = C4
+- Blue = D4
+- Yellow = E4
+- Green = F#4
+- Start Game = G4
+- End Game = C3
 
 ## How to produce this product:
 
