@@ -18,7 +18,7 @@ After completing my previous project (an alarm clock powered by arduino) I quick
 
 When I wired the buttons to the board, I used one red wire connected to all four buttons and one of the analog pins on the arduino to create an easy circuit to power all of them. Contrarily, each button has their own individual pin assigned to it for data.
 
-After testing the device I ran into an issue where I did not have control over the buttons and they were constantly being pressed without me pressing them, which is what the code was telling me while I was debugging. I found that I forgot to wire the buttons to ground unlike how I did digitally with tinkercad: https://www.tinkercad.com/things/fXHrg0fRCFs-q2-project/editel
+After testing the device I ran into an issue where I did not have control over the buttons and they were constantly being pressed without me pressing them, which is what the code was telling me while I was debugging. I found that I forgot to wire the buttons to ground unlike how I did digitally with tinkercad.
 
 Because the functionality of the game was finished, I decided to add 2 more components: a piezo speaker that will sing at specific frequencies designated to each color, and a battery that will allow my device to be portable and not required to be connected to a USB to play. After researching, I found that the 12V Battery would work perfectly for powering the arduino in the circuit through its VIN pin.
 
